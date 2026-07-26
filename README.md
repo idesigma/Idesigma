@@ -1,11 +1,11 @@
-# Hi there 👋, I'm AFZIORA
+# Hi there 👋, I'm AFZIMO
 
 💡 **Dari Akar Masalah, Lahir Solusi.**  
 🚀 **From Root Problems, Born Solutions.**
 
 Building technology solutions through **Code, Hardware, and Innovation.**
 
-Welcome to **AFZIORA** — a technology space focused on creating real-world solutions by combining:
+Welcome to **AFZIMO** — a technology space focused on creating real-world solutions by combining:
 
 - 🔌 Internet of Things (IoT)
 - 🤖 Embedded Systems & Robotics
@@ -106,11 +106,11 @@ Building and exploring solutions in:
 
 ---
 
-## 📫 Connect With AFZIORA
+## 📫 Connect With AFZIMO
 
-🌐 Website: Coming Soon  
-📺 YouTube: AFZIORA  
-📱 TikTok: AFZIORA  
+🌐 Website: Afzimo.com  
+📺 YouTube: AFZIMO
+📱 TikTok: AFZIMO
 
 ---
 
