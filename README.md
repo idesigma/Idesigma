@@ -1,4 +1,4 @@
-# Hi there 👋, I'm AFZIMO
+# Hi there 👋, I'm NESIKTA
 
 💡 **Dari Akar Masalah, Lahir Solusi.**  
 🚀 **From Root Problems, Born Solutions.**
@@ -106,11 +106,11 @@ Building and exploring solutions in:
 
 ---
 
-## 📫 Connect With AFZIMO
+## 📫 Connect With NESIKTA
 
-🌐 Website: Afzimo.com  
-📺 YouTube: AFZIMO
-📱 TikTok: AFZIMO
+🌐 Website: nesikta.com  
+📺 YouTube: nesikta
+📱 TikTok: nesikta
 
 ---
 
