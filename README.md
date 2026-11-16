@@ -5,7 +5,7 @@
 
 Building technology solutions through **Code, Hardware, and Innovation.**
 
-Welcome to **AFZIMO** — a technology space focused on creating real-world solutions by combining:
+Welcome to **NESIKTA** — a technology space focused on creating real-world solutions by combining:
 
 - 🔌 Internet of Things (IoT)
 - 🤖 Embedded Systems & Robotics
