@@ -1,11 +1,11 @@
-# Hi there 👋, I'm NESIKTA
+# Hi there 👋, I'm IDESIGMA
 
 💡 **Dari Akar Masalah, Lahir Solusi.**  
 🚀 **From Root Problems, Born Solutions.**
 
 Building technology solutions through **Code, Hardware, and Innovation.**
 
-Welcome to **NESIKTA** — a technology space focused on creating real-world solutions by combining:
+Welcome to **IDESIGMA** — a technology space focused on creating real-world solutions by combining:
 
 - 🔌 Internet of Things (IoT)
 - 🤖 Embedded Systems & Robotics
@@ -106,11 +106,11 @@ Building and exploring solutions in:
 
 ---
 
-## 📫 Connect With NESIKTA
+## 📫 Connect With IDESIGMA
 
-🌐 Website: nesikta.com  
-📺 YouTube: nesikta
-📱 TikTok: nesikta
+🌐 Website: idesigma.com  
+📺 YouTube: idesigma
+📱 TikTok: idesigma
 
 ---
 
